@@ -1,2 +1,5 @@
-2023/02/22-19:13:43.200 8a03 Creating DB /Users/nv/repos/pavlovcik/scraper-parent-test/cache/Default/Local Extension Settings/eabbjjmhckhabkmlefjbeidehgdgkdko since it was missing.
-2023/02/22-19:13:43.219 8a03 Reusing MANIFEST /Users/nv/repos/pavlovcik/scraper-parent-test/cache/Default/Local Extension Settings/eabbjjmhckhabkmlefjbeidehgdgkdko/MANIFEST-000001
+2023/02/22-19:13:03.926 8b03 Reusing MANIFEST /Users/nv/repos/pavlovcik/scraper-parent-test/cache/Default/Local Extension Settings/eabbjjmhckhabkmlefjbeidehgdgkdko/MANIFEST-000001
+2023/02/22-19:13:03.926 8b03 Recovering log #4
+2023/02/22-19:13:03.931 8b03 Level-0 table #7: started
+2023/02/22-19:13:03.951 8b03 Level-0 table #7: 2108173 bytes OK
+2023/02/22-19:13:03.964 8b03 Delete type=0 #4
